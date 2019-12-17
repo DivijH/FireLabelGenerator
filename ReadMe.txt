@@ -33,7 +33,7 @@ Information of 'Inputs'
 2.9. 'sheet_type'(compulsary) : Denotes the type of sheet for output. Supported sheets are A0, A1, A2, A3 and A4.
 2.10. 'background'(compulsary) : ONLY 0 AND 1. If 0 then background will BLACK be in color. If 1 then background will be WHITE in color.
 
-#############################################################################################################################################################################################
+########################################################################################################################################
 Information on 'Outputs'
 
 3.1. 'outdir'(compulsary) : The directory where the QR Code and seperate labels are stored. Eg. 'sample/images/'
