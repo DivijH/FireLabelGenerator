@@ -1,14 +1,14 @@
 This text file contains the details of the json file and the parameters it contains.
 Optional fields can be removed if necessary
 
-############################################################################################################################################################################################
+########################################################################################################################################
 See below for further explanation
 
 1. 'Label' : This is the content displayed in the QR Code
 2. 'Inputs' : These are the inputs that can be changed to control the output image
 3. 'Outputs' : This is the directory where the images are stored
 
-#############################################################################################################################################################################################
+########################################################################################################################################
 Information of 'Label'
 
 1.1. 'firetype'(optional) : Denote the firetype of the extinguisher. No impact on the program.
@@ -19,7 +19,7 @@ Information of 'Label'
 1.6. 'contact'(optional) : Denote the contact number written on fire extinguisher. No impact on the program.
 1.7. 'company'(optional) : Denote the name of the company on fire extinguisher. No impact on the program.
 
-#############################################################################################################################################################################################
+########################################################################################################################################
 Information of 'Inputs'
 
 2.1. 'img_type'(compulsary) : Denote the image type of the final image. A not supported extension may result in an error. (jpg,png,tiff,bmp,dib,sr)
