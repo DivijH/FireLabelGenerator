@@ -1,0 +1,28 @@
+{
+   "label": {
+	  "firetype"    : "Fire A",
+	  "weight"      : "12.5 kg",
+	  "volume"      : "3.23 litre",
+	  "snum_prefix" : "Fire-",
+	  "snum"	     : "1200-1220",
+	  "contact"     : "9810269076",
+	  "company"     : "ABC Fire Company"
+   },
+   "inputs" : {
+      "dpi"        : "1200",
+      "img_type"   : "jpeg",
+   	  "qrsize"     : "90",
+      "x_offset"   : "555",
+      "y_offset"   : "335",
+      "sno_x"      : "550",
+      "sno_y"      : "445",
+      "sno_size"   : "0.32",
+      "label_name" : "firelabel.jpg",
+      "sheet_type" : "A4",
+      "background" : "1"
+   },
+   "outputs": {
+   	  "outdir"    : "home/",
+      "final_out" : "final/"
+   }
+}
